@@ -10,6 +10,9 @@ The Cubic Snake Game is a 3D version of the classic snake game built using Java 
 
 The project adheres to Object-Oriented Programming (OOP) principles, with clear separation of concerns across different classes.
 
+![Alt Text](3D-Snake.png)
+
+
 ## Workflow Summary
 
 ### Initialization
